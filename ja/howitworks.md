@@ -1,8 +1,9 @@
-# Understanding Pusher
+# Pusherを理解する
 
-Pusher is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
+Pusherは、Webアプリ/mobileアプリ、またはその他のネット接続デバイスに、WebSocketを使ったリアルタイムの双方向通信を、すぐに、簡単に、そして安全に導入するためのシンプルなAPIです。
 
-We offer a rich suite of [libraries](https://pusher.com/docs/libraries) that you can use within your applications, including a [JavaScript client library](https://pusher.com/docs/client_api_guide/#lang=js) for web and HTML5 apps.
+私たちは、アプリで使える充実した[ライブラリ](https://pusher.com/docs/libraries)のセットを用意しており、その中には
+webアプリ/HTML5アプリのための [JavaScript client library](https://pusher.com/docs/client_api_guide/#lang=js) も含まれます。
 
 Our **event based abstraction** makes it simple to bind UI interactions to events that are triggered from any client or server.
 
