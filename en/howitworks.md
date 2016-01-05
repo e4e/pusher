@@ -10,7 +10,7 @@ We use WebSockets (with [fallbacks to Flash and HTTP](https://pusher.com/docs/fa
 
 As well as a WebSockets API, we have a [REST API](https://pusher.com/docs/rest_api) for publishing your messages. This is ideally suited to web server technologies and we have a set of [REST API libraries in many common languages](https://pusher.com/docs/libraries#rest_libraries) to help you to do this.
 
-<center>![Pusher with bi-directional WebSockets and REST API](https://pusher.com/docs/hero_howitworks-d5840af909cfca0b448c6b24fdfdf9af6a95263d79ada6a789607b8f6bc7a6e1.png)</center>
+<center>![Pusher with bi-directional WebSockets and REST API](https://pusher.com/assets/docs/hero_howitworks-d5840af909cfca0b448c6b24fdfdf9af6a95263d79ada6a789607b8f6bc7a6e1.png)</center>
 
 We have a simple **Publish/Subscribe** model based on channels that allows you to filter and control how people receive your messages.
 
